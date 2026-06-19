@@ -4,7 +4,7 @@ A Power BI custom visual that displays a set of four interactive KPI cards with 
 
 ## Features
 
-- **4 Interactive KPI Cards**: Display up to 4 key performance indicators in a single visual
+- **4 Interactive KPI Cards**: Display up to 6 key performance indicators in a single visual
 - **Hover-to-Reveal Details**: Detailed information appears when hovering over cards
 - **Dynamic Values**: Supports dynamic values from your data model
 - **Change Pills**: Display period-over-period changes with conditional coloring (positive/negative/neutral)
@@ -27,7 +27,7 @@ A Power BI custom visual that displays a set of four interactive KPI cards with 
 
 ### Data Fields
 
-- **Values**: Add 1-4 measures (each becomes one card)
+- **Values**: Add 1-6 measures (each becomes one card)
 - **Icons (SVG)** (Optional): One SVG text measure per card, in the same order as Values
 - **Prior Period** (Optional): One prior period measure per card for change calculation
 
@@ -76,7 +76,7 @@ interactive-kpi-cards/
 
 ## Technical Details
 
-- **Version**: 1.0.0.0
+- **Version**: 1.0.0.7
 - **API Version**: 5.3.0
 - **Author**: Interactive KPI Cards
 - **Support**: https://github.com/interactiveKPICards/support
