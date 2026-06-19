@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Interactive KPI Cards","email":"support@example.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/interactiveKPICards59572149DADC439DB2ECCA96CBAAB4C0.pbiviz.json"
+			}
+		],
+		"visual": {"name":"interactiveKPICards","displayName":"Interactive KPI Cards","guid":"interactiveKPICards59572149DADC439DB2ECCA96CBAAB4C0","visualClassName":"Visual","version":"1.0.0.0","description":"A set of four interactive KPI cards with hover-to-reveal detail panels. Supports dynamic values, change pills with conditional coloring, customizable side colors, and descriptive text — all configurable from the Power BI format panel. No DAX or HTML required.","supportUrl":"https://github.com/interactiveKPICards/support","gitHubUrl":""},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
